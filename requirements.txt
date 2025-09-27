@@ -1,0 +1,9 @@
+flask==3.0.3
+mistralai==1.2.3
+pydantic==2.9.0
+python-dotenv==1.0.1
+pymupdf==1.24.9
+beautifulsoup4==4.12.3
+lxml==5.2.2
+requests==2.32.3
+uvicorn==0.30.6

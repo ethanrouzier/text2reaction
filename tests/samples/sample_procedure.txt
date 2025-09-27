@@ -1,0 +1,3 @@
+Experimental
+
+To a 50 mL round-bottom flask equipped with a magnetic stir bar were added 4-aminobenzoic acid (1.37 g, 10.0 mmol, 1.0 equiv) and DMF (20 mL). The mixture was cooled to 0 °C and triethylamine (3.0 mL, 21.5 mmol, 2.15 equiv) was added dropwise under N2. A solution of benzoyl chloride (1.40 mL, 12.0 mmol, 1.2 equiv) in DMF (5 mL) was added over 10 min. The reaction was allowed to warm to rt and stirred for 2 h. The mixture was poured onto ice-water (100 mL) and the precipitate was collected by filtration, washed with water (2 × 20 mL), and dried to afford the product as a white solid (2.15 g, 82%).
